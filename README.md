@@ -1,6 +1,9 @@
 # People Tracking with YOLOv8 and ByteTrack
 *This project uses YOLOv8 for person detection and ByteTrack for multi-object tracking to count people entering and exiting through the frame boundaries or specific zones in a video.*
-https://github.com/user-attachments/assets/b9951392-fe91-4bbc-90ef-7a8705ecaf3c
+
+[VID_20250420_163750_729.webm](https://github.com/user-attachments/assets/4404b66a-b1cc-451f-a46b-46df98dd15a2)
+
+
 ## ~How It Works
 - YOLOv8 detects people in the frame.
 - ByteTrack assigns unique IDs to each person.
